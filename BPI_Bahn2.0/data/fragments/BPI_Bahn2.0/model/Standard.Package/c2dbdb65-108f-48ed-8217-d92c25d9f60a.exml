@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="bpi_bahn2.0" version="4">
+  <OBJECT>
+    <ID name="bpi_bahn2.0" mc="Standard.Package" uid="c2dbdb65-108f-48ed-8217-d92c25d9f60a"/>
+    <PID name="Model" mc="Standard.Package" uid="b1d8489e-f671-4f08-bbf0-45d8b898dc3a"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[bpi_bahn2.0]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedInformationFlow">
+        <OBJECT>
+          <ID name="InformationFlow" mc="Standard.InformationFlow" uid="f5f88cc2-6bf9-49c8-b285-94f407b1182d"/>
+          <ATTRIBUTES>
+            <ATT name="Name"><![CDATA[InformationFlow]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="InformationSource">
+              <ID name="Bahnkarte" mc="Standard.Class" uid="6bf9e5a7-4a69-4fd9-bc8c-28ff283a53f9"/>
+            </LINK>
+            <LINK relation="InformationTarget">
+              <ID name="Infotainment-System" mc="Standard.Class" uid="2ce716c4-370a-410d-a03b-cabd76a8a41c"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="InformationFlow" mc="Standard.InformationFlow" uid="0c378729-a52e-45ed-8938-a2b6fea0d3e1"/>
+          <ATTRIBUTES>
+            <ATT name="Name"><![CDATA[InformationFlow]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="InformationSource">
+              <ID name="Bahnkarte" mc="Standard.Class" uid="6bf9e5a7-4a69-4fd9-bc8c-28ff283a53f9"/>
+            </LINK>
+            <LINK relation="InformationTarget">
+              <ID name="Infoterminal" mc="Standard.Class" uid="2505491c-7b62-49c0-af82-5dd7ea6b5816"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Bahnkarte" mc="Standard.Class" uid="6bf9e5a7-4a69-4fd9-bc8c-28ff283a53f9"/>
+        <COMPID name="Infoterminal" mc="Standard.Class" uid="2505491c-7b62-49c0-af82-5dd7ea6b5816"/>
+        <COMPID name="Infotainment-System" mc="Standard.Class" uid="2ce716c4-370a-410d-a03b-cabd76a8a41c"/>
+        <COMPID name="Datenbank " mc="Standard.DataType" uid="08e9ff9c-2cbc-41d4-b96e-41ed7b869854"/>
+        <COMPID name="RFID" mc="Standard.Class" uid="aec1d046-687b-44f1-b515-274f860d6ec0"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Allgemein_Class diagram" mc="Standard.ClassDiagram" uid="955abbb5-3ee4-496a-9488-aec9036dfdf7"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

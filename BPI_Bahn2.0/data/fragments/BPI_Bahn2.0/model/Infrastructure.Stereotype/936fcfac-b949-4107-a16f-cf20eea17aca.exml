@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="externes Umsystem" version="4">
+  <OBJECT>
+    <ID name="externes Umsystem" mc="Infrastructure.Stereotype" uid="936fcfac-b949-4107-a16f-cf20eea17aca"/>
+    <PID name="LocalProfile" mc="Infrastructure.Profile" uid="bd7115f4-1e46-4d63-a8a5-756fe8cefae9"/>
+    <ATTRIBUTES>
+      <ATT name="Image"></ATT>
+      <ATT name="Icon"></ATT>
+      <ATT name="IsHidden">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="LabelKey"><![CDATA[externes Umsystem]]></ATT>
+      <ATT name="BaseClassName"><![CDATA[Infrastructure.ModelElement]]></ATT>
+      <ATT name="Name"><![CDATA[externes Umsystem]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

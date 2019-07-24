@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="BPI_Bahn2.0" version="4">
+  <OBJECT>
+    <ID name="BPI_Bahn2.0" mc="Standard.Project" uid="77612752-2a15-4ece-8d91-25f2fc283556"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[BPI_Bahn2.0]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="Model" mc="Standard.Package" uid="b1d8489e-f671-4f08-bbf0-45d8b898dc3a"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="BPI_Bahn2.0" mc="Infrastructure.DiagramSet" uid="d35544ce-d40a-4145-814a-cf21c51c3988"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
