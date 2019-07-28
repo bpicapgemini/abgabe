@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Tochscreen-Bildschirm" version="4">
+  <OBJECT>
+    <ID name="Tochscreen-Bildschirm" mc="Standard.Class" uid="4aa6f8da-3eed-40fa-af99-771ab1020d82"/>
+    <PID name="Komponenten" mc="Standard.Package" uid="bd3bf868-9ef8-4b3f-982d-5affa3b37671"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Tochscreen-Bildschirm]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

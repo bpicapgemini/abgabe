@@ -13,47 +13,17 @@
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
-      <COMP relation="OwnedInformationFlow">
-        <OBJECT>
-          <ID name="InformationFlow" mc="Standard.InformationFlow" uid="f5f88cc2-6bf9-49c8-b285-94f407b1182d"/>
-          <ATTRIBUTES>
-            <ATT name="Name"><![CDATA[InformationFlow]]></ATT>
-            <ATT name="status">1970354901745664</ATT>
-          </ATTRIBUTES>
-          <DEPENDENCIES>
-            <LINK relation="InformationSource">
-              <ID name="Bahnkarte" mc="Standard.Class" uid="6bf9e5a7-4a69-4fd9-bc8c-28ff283a53f9"/>
-            </LINK>
-            <LINK relation="InformationTarget">
-              <ID name="Infotainment-System" mc="Standard.Class" uid="2ce716c4-370a-410d-a03b-cabd76a8a41c"/>
-            </LINK>
-          </DEPENDENCIES>
-        </OBJECT>
-        <OBJECT>
-          <ID name="InformationFlow" mc="Standard.InformationFlow" uid="0c378729-a52e-45ed-8938-a2b6fea0d3e1"/>
-          <ATTRIBUTES>
-            <ATT name="Name"><![CDATA[InformationFlow]]></ATT>
-            <ATT name="status">1970354901745664</ATT>
-          </ATTRIBUTES>
-          <DEPENDENCIES>
-            <LINK relation="InformationSource">
-              <ID name="Bahnkarte" mc="Standard.Class" uid="6bf9e5a7-4a69-4fd9-bc8c-28ff283a53f9"/>
-            </LINK>
-            <LINK relation="InformationTarget">
-              <ID name="Infoterminal" mc="Standard.Class" uid="2505491c-7b62-49c0-af82-5dd7ea6b5816"/>
-            </LINK>
-          </DEPENDENCIES>
-        </OBJECT>
-      </COMP>
       <COMP relation="OwnedElement">
-        <COMPID name="Bahnkarte" mc="Standard.Class" uid="6bf9e5a7-4a69-4fd9-bc8c-28ff283a53f9"/>
-        <COMPID name="Infoterminal" mc="Standard.Class" uid="2505491c-7b62-49c0-af82-5dd7ea6b5816"/>
-        <COMPID name="Infotainment-System" mc="Standard.Class" uid="2ce716c4-370a-410d-a03b-cabd76a8a41c"/>
-        <COMPID name="Datenbank " mc="Standard.DataType" uid="08e9ff9c-2cbc-41d4-b96e-41ed7b869854"/>
-        <COMPID name="RFID" mc="Standard.Class" uid="aec1d046-687b-44f1-b515-274f860d6ec0"/>
+        <COMPID name="Mediathek" mc="Standard.Component" uid="7b27686a-e5d1-48ca-82d5-29ff2183d60d"/>
+        <COMPID name="Abrechnungssystem" mc="Standard.Component" uid="a4630c3d-655b-40c3-b598-688aa1a7d96a"/>
+        <COMPID name="Infoterminal" mc="Standard.Component" uid="70907d81-37c6-4118-943c-a6489587d406"/>
+        <COMPID name="Sitzplatzverwaltung" mc="Standard.Component" uid="1232d69a-fe3f-4271-8189-9c1b716c1fc7"/>
+        <COMPID name="RFID-System" mc="Standard.Component" uid="0cc1a123-6774-4872-8056-7b67a8995035"/>
+        <COMPID name="Profilverwaltung" mc="Standard.Component" uid="8b81001e-44eb-415f-983f-e63e762552f2"/>
+        <COMPID name="Infotainmentsystem" mc="Standard.Component" uid="cb06564d-6a8a-41e6-9e58-9c39c8d7940a"/>
       </COMP>
       <COMP relation="Product">
-        <COMPID name="Allgemein_Class diagram" mc="Standard.ClassDiagram" uid="955abbb5-3ee4-496a-9488-aec9036dfdf7"/>
+        <COMPID name="TI Architektur" mc="Standard.ClassDiagram" uid="17011098-f151-4aca-b318-238317a7e2df"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

@@ -22,6 +22,14 @@
         <COMPID name="RFID- System" mc="Standard.Component" uid="fe5d9804-8d1b-4290-9aee-f1778c4ef9b3"/>
         <COMPID name="Infoterminal" mc="Standard.Component" uid="4aebff09-f2bf-43b3-8aef-291ba8a674dd"/>
         <COMPID name="Mediathek" mc="Standard.Component" uid="98b10455-63d4-4cc9-82d7-6e813a90461c"/>
+        <COMPID name="Tochscreen-Bildschirm" mc="Standard.Class" uid="abcc1ff2-d71d-499d-bdeb-84a7e9b6c3d4"/>
+        <COMPID name="Folientastatur" mc="Standard.Class" uid="80c11628-e726-4240-8c6e-1fa57d189ec7"/>
+        <COMPID name="Kopfhöhreranschluss" mc="Standard.Class" uid="d1fe549f-7a9d-45e1-a6db-ff31c6544dff"/>
+        <COMPID name="RFID-Scanner" mc="Standard.Class" uid="e8d95c13-24a7-46a1-bf67-8904f133da11"/>
+        <COMPID name="Tochscreen-Bildschirm" mc="Standard.Class" uid="4aa6f8da-3eed-40fa-af99-771ab1020d82"/>
+        <COMPID name="RFID-Scanner" mc="Standard.Class" uid="caddf598-cc0a-4179-bf77-0fdc66007a72"/>
+        <COMPID name="RFID-Scanner" mc="Standard.Class" uid="534e14c0-f8bc-49b1-b42f-0dee3ed5c25c"/>
+        <COMPID name="Reservierungssystem" mc="Standard.Component" uid="29046397-10aa-4307-8b32-82051d547f4f"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="Model Class diagram" mc="Standard.ClassDiagram" uid="b92f9f0f-9500-45cb-858a-e5c72433d809"/>
