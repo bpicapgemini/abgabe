@@ -16,6 +16,25 @@
       <COMP relation="OwnedElement">
         <COMPID name="bpi_bahn2.0" mc="Standard.Package" uid="c2dbdb65-108f-48ed-8217-d92c25d9f60a"/>
         <COMPID name="Komponenten" mc="Standard.Package" uid="bd3bf868-9ef8-4b3f-982d-5affa3b37671"/>
+        <COMPID name="Abrechnungssystem" mc="Standard.Component" uid="d1cf37d2-347d-4022-b863-3f0920b83ec1"/>
+        <COMPID name="Infoterminal" mc="Standard.Component" uid="e0b8b0f8-f577-477f-a625-12078dff2859"/>
+        <COMPID name="Sitzplatzverwaltung" mc="Standard.Component" uid="cb624be4-2c04-4571-b213-aa6f8a0d05e6"/>
+        <COMPID name="Infotainmentsystem" mc="Standard.Component" uid="72cdaeba-91f2-4f65-8503-f106d7580f1b"/>
+        <COMPID name="Profilverwaltung" mc="Standard.Component" uid="94c5367b-9214-4543-845a-e53ef655ec1d"/>
+        <COMPID name="RFID- System" mc="Standard.Component" uid="b6bc0d55-56d9-4ab3-af0c-e51b6010f35a"/>
+        <COMPID name="Banksystem" mc="Standard.Component" uid="b90ed240-50ac-471e-9d3c-274d91ed258d"/>
+        <COMPID name="Mediathek" mc="Standard.Component" uid="01f0c49f-ed15-42a1-b2fe-f446c17ceba3"/>
+        <COMPID name="Reservierungssystem" mc="Standard.Component" uid="97438c0f-4422-4a60-adb8-075c275730fb"/>
+        <COMPID name="Tochscreen-Bildschirm" mc="Standard.Class" uid="430b2096-ffb2-41bb-a3d3-1ff2c1e46df0"/>
+        <COMPID name="RFID-Scanner" mc="Standard.Class" uid="2cf337fa-a5fc-405a-964e-4de17ab930d8"/>
+        <COMPID name="RFID-Scanner" mc="Standard.Class" uid="0e75ef09-5706-4b6d-8a90-4697bb614c3e"/>
+        <COMPID name="RFID-Scanner" mc="Standard.Class" uid="b2c25820-ac3c-413e-b3ab-9c68292c9093"/>
+        <COMPID name="Kopfhöhreranschluss" mc="Standard.Class" uid="5eb21c4d-4a1d-4299-a824-ec8ff5d99ed2"/>
+        <COMPID name="Tochscreen-Bildschirm" mc="Standard.Class" uid="fde26dd7-0d61-4b62-8442-a303428f0e6a"/>
+        <COMPID name="Folientastatur" mc="Standard.Class" uid="4b792def-8f37-4c67-a687-121db29fd615"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Kom" mc="Standard.ClassDiagram" uid="99aaf91e-e47f-4029-9d76-a7e67daa293b"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

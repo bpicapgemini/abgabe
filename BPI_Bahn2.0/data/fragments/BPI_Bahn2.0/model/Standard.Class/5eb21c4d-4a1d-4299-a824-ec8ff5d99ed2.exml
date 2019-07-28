@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Kopfhöhreranschluss" version="4">
+  <OBJECT>
+    <ID name="Kopfhöhreranschluss" mc="Standard.Class" uid="5eb21c4d-4a1d-4299-a824-ec8ff5d99ed2"/>
+    <PID name="Model" mc="Standard.Package" uid="b1d8489e-f671-4f08-bbf0-45d8b898dc3a"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Kopfhöhreranschluss]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
