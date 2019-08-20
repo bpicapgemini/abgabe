@@ -24,14 +24,15 @@
         <COMPID name="RFID- System" mc="Standard.Component" uid="b6bc0d55-56d9-4ab3-af0c-e51b6010f35a"/>
         <COMPID name="Banksystem" mc="Standard.Component" uid="b90ed240-50ac-471e-9d3c-274d91ed258d"/>
         <COMPID name="Mediathek" mc="Standard.Component" uid="01f0c49f-ed15-42a1-b2fe-f446c17ceba3"/>
-        <COMPID name="Reservierungssystem" mc="Standard.Component" uid="97438c0f-4422-4a60-adb8-075c275730fb"/>
-        <COMPID name="Tochscreen-Bildschirm" mc="Standard.Class" uid="430b2096-ffb2-41bb-a3d3-1ff2c1e46df0"/>
+        <COMPID name="Sitzplatzreservierungssystem" mc="Standard.Component" uid="97438c0f-4422-4a60-adb8-075c275730fb"/>
+        <COMPID name="Touchscreen-Bildschirm" mc="Standard.Class" uid="430b2096-ffb2-41bb-a3d3-1ff2c1e46df0"/>
         <COMPID name="RFID-Scanner" mc="Standard.Class" uid="2cf337fa-a5fc-405a-964e-4de17ab930d8"/>
         <COMPID name="RFID-Scanner" mc="Standard.Class" uid="0e75ef09-5706-4b6d-8a90-4697bb614c3e"/>
         <COMPID name="RFID-Scanner" mc="Standard.Class" uid="b2c25820-ac3c-413e-b3ab-9c68292c9093"/>
         <COMPID name="Kopfhöhreranschluss" mc="Standard.Class" uid="5eb21c4d-4a1d-4299-a824-ec8ff5d99ed2"/>
-        <COMPID name="Tochscreen-Bildschirm" mc="Standard.Class" uid="fde26dd7-0d61-4b62-8442-a303428f0e6a"/>
+        <COMPID name="Touchscreen-Bildschirm" mc="Standard.Class" uid="fde26dd7-0d61-4b62-8442-a303428f0e6a"/>
         <COMPID name="Folientastatur" mc="Standard.Class" uid="4b792def-8f37-4c67-a687-121db29fd615"/>
+        <COMPID name="Ticketbuchungssystem" mc="Standard.Component" uid="deafd764-40db-4fab-ada4-8c9afb42bc7f"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="Kom" mc="Standard.ClassDiagram" uid="99aaf91e-e47f-4029-9d76-a7e67daa293b"/>

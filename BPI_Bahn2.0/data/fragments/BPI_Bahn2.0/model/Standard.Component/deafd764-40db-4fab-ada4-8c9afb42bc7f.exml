@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Sitzplatzreservierungssystem" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Ticketbuchungssystem" version="4">
   <OBJECT>
-    <ID name="Sitzplatzreservierungssystem" mc="Standard.Component" uid="97438c0f-4422-4a60-adb8-075c275730fb"/>
+    <ID name="Ticketbuchungssystem" mc="Standard.Component" uid="deafd764-40db-4fab-ada4-8c9afb42bc7f"/>
     <PID name="Model" mc="Standard.Package" uid="b1d8489e-f671-4f08-bbf0-45d8b898dc3a"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,7 +11,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[Sitzplatzreservierungssystem]]></ATT>
+      <ATT name="Name"><![CDATA[Ticketbuchungssystem]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES></DEPENDENCIES>
